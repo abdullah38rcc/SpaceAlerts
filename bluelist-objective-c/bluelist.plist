@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>applicationRoute</key>
+	<string> https://spacealerts.eu-gb.mybluemix.net</string>
+	<key>applicationId</key>
+	<string>8b5ddee0-053e-418d-b52a-752c459c5609</string>
+</dict>
+</plist>
